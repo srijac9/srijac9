@@ -33,3 +33,7 @@ I'm a Computer Engineering student at the University of Waterloo aspiring to be 
 <p align="center">
 <img src="game.gif" />
 </p>
+
+<p align="center">
+Thanks for visiting! ♡
+</p>
