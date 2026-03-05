@@ -1,5 +1,3 @@
-## Hi! This is Srija. 👋
-
 <p align="center">
   <img src="https://media.tenor.com/cklYzMoQBz4AAAAM/anime-smile.gif" width="250"/>
 </p>
