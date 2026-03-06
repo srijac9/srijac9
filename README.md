@@ -6,9 +6,9 @@
 
 <h2>⋆｡°✩ 𝙰 𝚕𝚒𝚝𝚝𝚕𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 ✩°｡⋆</h2>
 
-<img align="right" src="coding-girl.png" width="315"/>
+<img align="right" src="coding-girl.png" width="325"/>
 
-I'm a Computer Engineering student at the University of Waterloo aspiring to be a Full-Stack and Software Engineer. I can never sit still and am always building or creating something — from coding projects and exploring new technologies to experimenting with different forms of art. I'm currently pivoting toward Artificial Intelligence and Data Science, combining my technical skills in Python, Machine Learning, and AI engineering.
+I'm a Computer Engineering student at the University of Waterloo and an aspiring Software Engineer with a passion for Full-Stack development and AI. I can never sit still and I'm always building or creating something — from coding projects and exploring new technologies to experimenting with different forms of art. I'm currently expanding my Full-Stack background into AI Engineering, leveraging Python and Machine Learning to integrate intelligence into my builds and push the boundaries of what can be created.
 
 - 🐍 My favorite programming language is Python
 - 🚀 I thrive in fast-paced environments like hackathons  
