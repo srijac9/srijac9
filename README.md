@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/cklYzMoQBz4AAAAM/anime-smile.gif" width="225"/>
+  <img src="taking-pic.gif" width="325"/>
 </p>
 
 <h1 align="center">♥ 𝚂𝚊𝚢 𝙲𝚑𝚎𝚎𝚜𝚎! 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝚑𝚞𝚋! 𝙸'𝚖 𝚂𝚛𝚒𝚓𝚊 ♥</h1>
