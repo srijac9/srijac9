@@ -6,7 +6,7 @@
 
 <h2>⋆｡°✩ 𝙰 𝚕𝚒𝚝𝚝𝚕𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 ✩°｡⋆</h2>
 
-<img align="right" src="https://www.shutterstock.com/image-vector/happy-girl-laptop-online-coding-260nw-1982055719.jpg" width="260"/>
+<img align="right" src="coding-girl.png" width="315"/>
 
 I'm a Computer Engineering student at the University of Waterloo aspiring to be a Full-Stack and Software Engineer. I can never sit still and am always building or creating something — from coding projects and exploring new technologies to experimenting with different forms of art. I'm currently pivoting toward Artificial Intelligence and Data Science, combining my technical skills in Python, Machine Learning, and AI engineering.
 
