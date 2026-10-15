@@ -19,14 +19,33 @@ I'm a Computer Engineering student at the University of Waterloo and an aspiring
 
 <h2>⋆｡°✩ My tech stack ✩°｡⋆</h2>
 
-<b>Programming Languages:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!-- Programming Languages -->
+![Python](https://img.shields.io/badge/Python-C3CA92?style=for-the-badge&logo=python&logoColor=20331B)
+![C++](https://img.shields.io/badge/C%2B%2B-A4B17B?style=for-the-badge&logo=cplusplus&logoColor=20331B)
+![Java](https://img.shields.io/badge/Java-859864?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-697E50?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-4E653D?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![Assembly](https://img.shields.io/badge/Assembly-354C2B?style=for-the-badge&logo=assemblyscript&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-20331B?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 
-<b>Machine Learning & Computer Vision:</b>  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/MiDaS-00599C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
+<!-- ML & CV -->
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-C3CA92?style=for-the-badge&logo=scikitlearn&logoColor=20331B)
+![OpenCV](https://img.shields.io/badge/OpenCV-A4B17B?style=for-the-badge&logo=opencv&logoColor=20331B)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-859864?style=for-the-badge&logoColor=FFFFFF)
+![MiDaS](https://img.shields.io/badge/MiDaS-697E50?style=for-the-badge&logoColor=FFFFFF)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4E653D?style=for-the-badge&logo=google&logoColor=FFFFFF)
 
+<!-- Cloud -->
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-C3CA92?style=for-the-badge&logo=microsoftazure&logoColor=20331B)
+![AWS](https://img.shields.io/badge/AWS-A4B17B?style=for-the-badge&logo=amazonaws&logoColor=20331B)
 
-<b>Cloud Services:</b>  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<b>Tools & Frameworks:</b> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<!-- Tools -->
+![Postman](https://img.shields.io/badge/Postman-C3CA92?style=for-the-badge&logo=postman&logoColor=20331B)
+![Docker](https://img.shields.io/badge/Docker-A4B17B?style=for-the-badge&logo=docker&logoColor=20331B)
+![React](https://img.shields.io/badge/React-859864?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-697E50?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-4E653D?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-354C2B?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 
 <h2>⋆｡°✩My GitHub Contributions ✩°｡⋆</h2>
 
